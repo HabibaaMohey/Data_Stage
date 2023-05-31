@@ -8,8 +8,12 @@ First, Building the "RETAIL_DATA_MART"
 
 
 
+
+
  - ![Screenshot 2023-05-24 060200](https://github.com/HabibaaMohey/Data_Stage/assets/132647130/0dbfc703-55c3-4c5e-83c8-cfc9f5c67a30)
  
+
+
 
 
 Next, we will focus on the "ACTIVATIONSALES_DATA_MART". By leveraging the data mart created in  first case , we will address the following business needs:
@@ -19,6 +23,8 @@ Next, we will focus on the "ACTIVATIONSALES_DATA_MART". By leveraging the data m
 ✅ Identifying the customer type that generated the maximum profit. 
 
 ✅Based on the customers' profit generation, we will provide them with a bonus. 
+
+
 
 ![Case_2](https://github.com/HabibaaMohey/Data_Stage/assets/132647130/49c7846c-f6ab-4ec4-8632-e6cf1bb02497)
 
