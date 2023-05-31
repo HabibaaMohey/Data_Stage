@@ -2,7 +2,7 @@
  ETL solution to load and transform data into data marts based on specific business needs, enabling valuable insights for our organization
 
 
-First, Building the "RETAIL_DATA_MART" 
+# First, Building the "RETAIL_DATA_MART" 
 
  - Our first goal is to construct a data mart that displays each transaction for customers based on their type: "citizen" or "foreign". Additionally, we will include product information and details of the stock purchased. To achieve this, we will read the source data, perform necessary transformations, and save the resulting data mart. 
 
@@ -16,7 +16,8 @@ First, Building the "RETAIL_DATA_MART"
 
 
 
-Next, we will focus on the "ACTIVATIONSALES_DATA_MART". By leveraging the data mart created in  first case , we will address the following business needs:
+# Next, we will focus on the "ACTIVATIONSALES_DATA_MART". 
+By leveraging the data mart created in  first case , we will address the following business needs:
 
 ✅ Displaying the count of all transactions for each employee in each store.
 
